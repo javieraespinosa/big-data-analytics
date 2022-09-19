@@ -5,7 +5,7 @@ weight: 10
 draft: true
 
 title: Big Data Analytics
-subtitle: A practical course
+subtitle: _Course in collaboration with [Sopra Steria](http://soprasteria.com/)_
 
 design:
   background:

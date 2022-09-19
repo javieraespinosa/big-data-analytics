@@ -1,24 +1,22 @@
 ---
 # Display name
-title: Nicolas Brisy
+title: Mathieu Baudin
 
 # Role/position
-role: Senior Architect
+role: Data Specialist, Team Leader 
 
 # Organizations/Affiliations
 organizations:
   - name: Sopra Steria
     url: ''
 
-
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
-# - NoSQL
-# - Big Data
-# - DevOps
-
+interests:
+- Business Intelligence
+- Databricks
+- AWS
 
 #education:
 #  courses:
@@ -40,11 +38,12 @@ social:
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/nicolas-brisy
+    link: https://www.linkedin.com/in/mathieu-baudin-828839b7/
 
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:nicolas.brisy@soprasteria.com' # For a direct email link, use "mailto:test@example.org".
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:' # For a direct email link, use "mailto:test@example.org".
+
 
   # - icon: twitter
   #   icon_pack: fab
@@ -69,7 +68,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lecturers
+  - "Invited Experts"
+  - "Sopra Steria"
 
 highlight_name: true
 ---

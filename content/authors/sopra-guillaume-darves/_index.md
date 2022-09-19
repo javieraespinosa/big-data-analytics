@@ -1,30 +1,22 @@
 ---
 # Display name
-title: Javier Espinosa
-
-# Is this the primary user of the site?
-superuser: true
+title: Guillaume Darver
 
 # Role/position
-role: Associate Professor
-
-# Status emoji
-status:
-  icon: ☕️
+role: Data Specialist
 
 # Organizations/Affiliations
 organizations:
-  - name: CPE, Univ. Lyon / LIRIS-CNRS
+  - name: Sopra Steria
     url: ''
-
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Big Data
+- Data Science
+- Semantic Technologies
 
 #education:
 #  courses:
@@ -44,18 +36,13 @@ bio:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
-  - icon: globe
-    icon_pack: fas
-    link: https://www.espinosa-oviedo.com
-
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/javieraespinosa/
+    link: https://www.linkedin.com/in/guillaume-darves-bornoz 
 
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:javier.espinosa@cpe.fr' # For a direct email link, use "mailto:test@example.org".
-
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '' # For a direct email link, use "mailto:test@example.org".
 
 
   # - icon: twitter
@@ -81,8 +68,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Coordinator
-  - Lecturers
+  - "Invited Experts"
+  - "Sopra Steria"
 
 highlight_name: true
 ---

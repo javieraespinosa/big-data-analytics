@@ -21,6 +21,10 @@ At the end of this course, students will be capable of:
 
 * Analyse large and heterogeneous datasets (structured, non-structured) on batch
 
+### Methodology
+
+The course follows the principle of blended learning. Students are thus expected to read and prepare using the provided online material before each lesson.
+
 ### Prerequisites
 
 Students are expected to be familiar with the following topics:
