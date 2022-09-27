@@ -19,13 +19,13 @@ title: Practicals
 
 #### IRC
 
-* [Big Data IRC lab](https://awsacademy.instructure.com/courses/23631)
-<!-- * [Big Data IRC lab (datathon)](https://awsacademy.instructure.com/courses/27104) -->
+* [Big Data IRC lab (AWS data analytics course)](https://awsacademy.instructure.com/courses/23631)
+* [Big Data IRC lab (sandbox)](https://awsacademy.instructure.com/courses/27104)
 
 #### ETI
 
-* [Big Data ETI lab](https://awsacademy.instructure.com/courses/23632)
-<!-- * [Big Data ETI lab (datathon)](https://awsacademy.instructure.com/courses/27103) -->
+* [Big Data ETI lab (AWS data analytics course)](https://awsacademy.instructure.com/courses/23632)
+* [Big Data ETI lab (sandbox)](https://awsacademy.instructure.com/courses/27103)
 
 ### Databricks
 

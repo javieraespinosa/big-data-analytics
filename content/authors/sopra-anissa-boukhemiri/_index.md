@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Nicolas Brisy
+title: Anissa Boukhemiri
 
 # Role/position
-role: Senior Architect
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -15,9 +15,7 @@ organizations:
 bio: 
 
 interests:
-- NoSQL
-- Big Data
-- DevOps
+- Software Development
 - Java
 
 
@@ -41,11 +39,11 @@ social:
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/nicolas-brisy
+    link: https://www.linkedin.com/in/anissa-boukhémiri-913277149/details/skills/
 
   # - icon: envelope
   #   icon_pack: fas
-  #   link: 'mailto:' # For a direct email link, use "mailto:test@example.org".
+  #   link: '' # For a direct email link, use "mailto:test@example.org".
 
   # - icon: twitter
   #   icon_pack: fab

@@ -15,6 +15,17 @@ main:
   - name: Syllabus 
     url: '#program'
     weight: 30
+    identifier: syllabus
+
+  - name: IRC program
+    url: '#irc-program'
+    weight: 31
+    parent: syllabus
+
+  - name: ETI program
+    url: '#eti-program'
+    weight: 32
+    parent: syllabus
 
   - name: Practicals
     url: '#practicals'

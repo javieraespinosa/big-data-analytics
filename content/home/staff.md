@@ -19,8 +19,8 @@ content:
   user_groups:
     - Coordinator
     - Lecturers
-    # - "Sopra Steria"
-    - "Invited Experts"
+    - "Sopra Steria"
+    # - "Invited Experts"
 
 
 design:
