@@ -30,7 +30,11 @@ main:
   - name: Practicals
     url: '#practicals'
     weight: 40
-     
+
+  - name: Datathon
+    url: '#datathon'
+    weight: 41
+
   - name: Resources
     url: '#resources'
     weight: 50
