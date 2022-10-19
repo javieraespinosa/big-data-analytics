@@ -37,4 +37,4 @@ Students are expected to be familiar with the following topics:
 ### Evaluation
 
 * `60%` &emsp; exam + quizes
-* `40%` &emsp; datathon + demofest (TBA)
+* `40%` &emsp; datathon + demofest
