@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Teaching Staff
+title: Staff
 subtitle: 
 
 
@@ -17,9 +17,9 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Coordinator
+    # - Coordinator
     - Lecturers
-    - "Sopra Steria"
+    - "Guests"
     # - "Invited Experts"
 
 

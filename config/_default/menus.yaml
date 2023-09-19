@@ -27,8 +27,8 @@ main:
     weight: 32
     parent: syllabus
 
-  - name: Practicals
-    url: '#practicals'
+  - name: Exercises
+    url: '#exercises'
     weight: 40
 
   - name: Datathon

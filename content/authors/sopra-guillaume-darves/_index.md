@@ -68,7 +68,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - "Invited Experts"
+  - "Guests"
   - "Sopra Steria"
 
 highlight_name: true
