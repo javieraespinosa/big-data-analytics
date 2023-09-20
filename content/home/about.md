@@ -7,6 +7,12 @@ title: About
 # subtitle: 'the course, of course :smile:'
 ---
 
+{{% callout note %}}
+
+* Verify the [course checklist](https://docs.google.com/document/d/1UEmwVP_8NmCsIG3AUKWn-J-b82d0zg39p0uulRtf9bE/edit?usp=sharing)
+
+{{% /callout %}}
+
 This course aims to introduce the use of **Big Data systems** for processing data at scale on top of  distributed architectures (e.g., cluster- and cloud-based architectures).
 
 Using the **Big Data life cycle** as reference (i.e., _data acquisition, storage, preparation, analysis, and visualization phases_), the course introduces the fundamental concepts at the core of the existing Big Data stack and shows their practical application with concrete hands-on examples.
