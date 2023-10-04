@@ -51,6 +51,8 @@ title: Exercises
 
 * [Lab: MapReduce with mrjob](https://docs.google.com/document/d/13zGR0owegRiZzBsrm68lTKtFdxx_Sb_FZZsrYAQJDJM/edit?usp=sharing)
 
+* [Lab: Spark Architecture & Cluster Modes](https://www.google.com/url?q=https://docs.google.com/document/d/1vYbjdpQ-kXtxTGU0KHfk6y0OdGNz4qBGjjlSziQJ5Jg/edit?usp%3Dsharing&sa=D&source=editors&ust=1696455311536965&usg=AOvVaw2S8I2yWlN0_4k9006R6Kuz)
+
 ### Stream Processing
 
 * [Lab: Spark streaming](https://docs.google.com/document/d/1IXCQsAMmhcHm9Xc-DS_7frkOegUqw6n3lPgNfmJnRc8/edit?usp=sharing)
