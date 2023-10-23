@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Anissa Boukhemiri
+title: Nassima Ben Bahtane
 
 # Role/position
-role: Software Engineer
+role: Data Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -15,8 +15,10 @@ organizations:
 bio: 
 
 interests:
-- Software Development
-- Java
+- PostgreSQL
+- Spring Boot
+- DevOps
+- Apache NiFi
 
 
 #education:
@@ -39,11 +41,11 @@ social:
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/anissa-boukhémiri-913277149/details/skills/
+    link: https://www.linkedin.com/in/nassima-ben-bahtane/
 
   # - icon: envelope
   #   icon_pack: fas
-  #   link: '' # For a direct email link, use "mailto:test@example.org".
+  #   link: 'mailto:' # For a direct email link, use "mailto:test@example.org".
 
   # - icon: twitter
   #   icon_pack: fab
@@ -69,7 +71,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - "Sopra Steria"
-  # - "Guests"
+  - "Guests"
 
 
 highlight_name: true
