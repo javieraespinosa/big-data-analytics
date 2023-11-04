@@ -354,7 +354,54 @@ content_charset Content-Type: text/html; charset=utf-8 cf. content’s HTTP head
 &lt;h3 id="multimedia">Multimedia&lt;/h3>
 &lt;ol start="16">
 &lt;li>Compute the statistics of the multimedia files within the data collection (&lt;strong>optional&lt;/strong>)&lt;/li>
-&lt;/ol></description></item><item><title>Datathon</title><link>https://espinosa-oviedo.com/big-data-analytics/demofest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/demofest/</guid><description/></item><item><title>Syllabus ETI</title><link>https://espinosa-oviedo.com/big-data-analytics/syllabus-eti/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/syllabus-eti/</guid><description>&lt;blockquote>
+&lt;/ol></description></item><item><title>Datathon</title><link>https://espinosa-oviedo.com/big-data-analytics/demofest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/demofest/</guid><description/></item><item><title>Exercises</title><link>https://espinosa-oviedo.com/big-data-analytics/exercises/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/exercises/</guid><description>&lt;h3 id="cloud-computing">Cloud Computing&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://docs.google.com/document/d/1cSD4816uFa00e9Df53psqbpL0VdKzlKiywkWKU8QSYU/edit?usp=sharing" target="_blank" rel="noopener">How to: Create &amp;amp; configure EC2 virtual machine&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.google.com/document/d/1px2f2yA3K_09pMUjIlRMgZSPdBtLEzquPKFCt6IXQw0/edit?usp=sharing" target="_blank" rel="noopener">How to: Create &amp;amp; configure Cloud9 XL environment&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="distributed-storage">Distributed Storage&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1dtD3knCp5HKy2pVnmkSzxroSXYxrUcYf96a1zYKrkGM/edit?usp=sharing" target="_blank" rel="noopener">Lab: Playing with Amazon S3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="parallel-computing">Parallel Computing&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://docs.google.com/document/d/13zGR0owegRiZzBsrm68lTKtFdxx_Sb_FZZsrYAQJDJM/edit?usp=sharing" target="_blank" rel="noopener">Lab: MapReduce with mrjob&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.google.com/url?q=https://docs.google.com/document/d/1vYbjdpQ-kXtxTGU0KHfk6y0OdGNz4qBGjjlSziQJ5Jg/edit?usp%3Dsharing&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1696455311536965&amp;amp;usg=AOvVaw2S8I2yWlN0_4k9006R6Kuz" target="_blank" rel="noopener">Lab: Spark Architecture &amp;amp; Cluster Modes&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="stream-processing">Stream Processing&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/document/d/1IXCQsAMmhcHm9Xc-DS_7frkOegUqw6n3lPgNfmJnRc8/edit?usp=sharing" target="_blank" rel="noopener">Lab: Spark streaming&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Resources</title><link>https://espinosa-oviedo.com/big-data-analytics/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/resources/</guid><description>&lt;h3 id="courses">Courses&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&amp;amp;ansicht=KATALOGDATEN&amp;amp;lerneinheitId=158903&amp;amp;lang=en" target="_blank" rel="noopener">Big Data for Engineers&lt;/a>, ETH Zurich (&lt;a href="https://youtube.com/playlist?list=PLs5KPrcFtb0VFulL1SbviJBIMi9pDKYZ2" target="_blank" rel="noopener">videos&lt;/a>, &lt;a href="https://systems.ethz.ch/education/courses/2021-autumn/big-data.html" target="_blank" rel="noopener">slides&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h3 id="books">Books&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://ghislainfourny.github.io/big-data-textbook/" target="_blank" rel="noopener">The Big Data Textbook&lt;/a>, Ghislain Fourny, 2023.&lt;/li>
+&lt;li>&lt;a href="https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf" target="_blank" rel="noopener">Learning Spark: Lightning-Fast Data Analytics (2nd edition)&lt;/a>, O&amp;rsquo;Reilly, 2020.&lt;/li>
+&lt;li>&lt;a href="https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/" target="_blank" rel="noopener">Spark: The Definitive Guide&lt;/a>, B. Chambers &amp;amp; M. Zaharia, O&amp;rsquo;Reilly, 2018.&lt;/li>
+&lt;/ul>
+&lt;h3 id="databricks-training-programs">Databricks Training Programs*&lt;/h3>
+&lt;blockquote>
+&lt;p>*Freely available to &lt;a href="@cpe.fr">@cpe.fr&lt;/a> students&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>&lt;a href="https://customer-academy.databricks.com/learn/learning_plan/view/160/apache-spark-developer-learning-plan" target="_blank" rel="noopener">Databricks Apache Spark Developer Plan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://customer-academy.databricks.com/learn/course/112/introduction-to-apache-spark-architecture" target="_blank" rel="noopener">Introduction to Apache Spark Architecture&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="login-portals">Login Portals&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://awsacademy.instructure.com/" target="_blank" rel="noopener">AWS Academy Login Portal&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://community.cloud.databricks.com/" target="_blank" rel="noopener">Databricks Community Edition&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Syllabus ETI</title><link>https://espinosa-oviedo.com/big-data-analytics/syllabus-eti/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/syllabus-eti/</guid><description>&lt;blockquote>
 &lt;p>See the &lt;a href="https://docs.google.com/document/d/1BwFCh4EN6NGZv_MTOBduAv5shDkAqTcXbg7G0KtljLY/edit?usp=sharing" target="_blank" rel="noopener">GoogleDoc version&lt;/a> in case of visualization problems.&lt;/p>
 &lt;/blockquote>
 &lt;div class="responsive-wrap">
