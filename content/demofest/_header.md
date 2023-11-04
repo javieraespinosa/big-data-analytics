@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 9
 draft: true
 
 title: '**Datathon**: </br>Analisis of Web Archives from the Digital Humanities' 

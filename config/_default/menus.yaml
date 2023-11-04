@@ -31,9 +31,22 @@ main:
     url: '#exercises'
     weight: 40
 
+  # - name: Datathon
+  #   url: '#datathon'
+  #   weight: 41
+
   - name: Datathon
-    url: '#datathon'
-    weight: 41
+    url: '/events/datathon/'
+    weight: 42
+    identifier: datathon
+
+
+  # - name: Datathon2
+  #   url: '/datathon2'
+  #   weight: 42
+
+
+
 
   - name: Resources
     url: '#resources'
