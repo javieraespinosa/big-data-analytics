@@ -354,7 +354,21 @@ content_charset Content-Type: text/html; charset=utf-8 cf. content’s HTTP head
 &lt;h3 id="multimedia">Multimedia&lt;/h3>
 &lt;ol start="16">
 &lt;li>Compute the statistics of the multimedia files within the data collection (&lt;strong>optional&lt;/strong>)&lt;/li>
-&lt;/ol></description></item><item><title>Datathon</title><link>https://espinosa-oviedo.com/big-data-analytics/demofest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/demofest/</guid><description/></item><item><title>Exercises</title><link>https://espinosa-oviedo.com/big-data-analytics/exercises/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/exercises/</guid><description>&lt;h3 id="cloud-computing">Cloud Computing&lt;/h3>
+&lt;/ol></description></item><item><title>Teams</title><link>https://espinosa-oviedo.com/big-data-analytics/events/datathon/teams/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/events/datathon/teams/</guid><description>&lt;h3 id="teams-eti">Teams ETI&lt;/h3>
+&lt;blockquote>
+&lt;p>See the &lt;a href="https://docs.google.com/spreadsheets/d/10c-1467qzDoIvuEIFi1BzO4JRuImfWmL/edit?usp=sharing&amp;amp;ouid=111004351597243537219&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">GoogleDoc version&lt;/a> in case of visualization problems.&lt;/p>
+&lt;/blockquote>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/spreadsheets/d/10c-1467qzDoIvuEIFi1BzO4JRuImfWmL/edit?usp=sharing&amp;amp;ouid=111004351597243537219&amp;amp;rtpof=true&amp;amp;sd=true" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div>
+&lt;hr>
+&lt;h3 id="teams-irc">Teams IRC&lt;/h3>
+&lt;blockquote>
+&lt;p>See the &lt;a href="https://docs.google.com/spreadsheets/d/1soIknJCaVUu1IlP64suv0xqRBtWE1dA0/edit?usp=sharing&amp;amp;ouid=111004351597243537219&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">GoogleDoc version&lt;/a> in case of visualization problems.&lt;/p>
+&lt;/blockquote>
+&lt;div class="responsive-wrap">
+&lt;iframe src="https://docs.google.com/spreadsheets/d/1soIknJCaVUu1IlP64suv0xqRBtWE1dA0/edit?usp=sharing&amp;amp;ouid=111004351597243537219&amp;amp;rtpof=true&amp;amp;sd=true" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;/div></description></item><item><title>Datathon</title><link>https://espinosa-oviedo.com/big-data-analytics/demofest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/demofest/</guid><description/></item><item><title>Exercises</title><link>https://espinosa-oviedo.com/big-data-analytics/exercises/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/exercises/</guid><description>&lt;h3 id="cloud-computing">Cloud Computing&lt;/h3>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://docs.google.com/document/d/1cSD4816uFa00e9Df53psqbpL0VdKzlKiywkWKU8QSYU/edit?usp=sharing" target="_blank" rel="noopener">How to: Create &amp;amp; configure EC2 virtual machine&lt;/a>&lt;/p>
