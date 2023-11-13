@@ -194,6 +194,9 @@ Use the code provided in the notebooks instead.
 &lt;p>&lt;a href="https://colab.research.google.com/drive/1aL5O2gQBvseLvp61ll_iU48n_HyHkY91?usp=sharing" target="_blank" rel="noopener">Datathon WebArchives Quickstart&lt;/a> notebook&lt;/p>
 &lt;/li>
 &lt;li>
+&lt;p>&lt;a href="https://github.com/javieraespinosa/big-data-analytics-datathon/blob/main/notebooks/03-WebArchives%20Graph%20Analytics.ipynb" target="_blank" rel="noopener">Datathon WebArchives &amp;amp; Graph Analytics&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;a href="https://colab.research.google.com/drive/1Ss260r20PwfQunYWvuLjZ2Ljcnu9kSlZ?usp=sharing" target="_blank" rel="noopener">Collecting Data from Blogger via the API&lt;/a> notebook&lt;/p>
 &lt;/li>
 &lt;li>
@@ -231,7 +234,7 @@ Use the code provided in the notebooks instead.
 &lt;li>&lt;a href="https://spark.apache.org/docs/3.0.0/api/python/pyspark.sql.html#pyspark.sql.DataFrame" target="_blank" rel="noopener">Spark Dataframe API&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Phase 1: Profiling Queries</title><link>https://espinosa-oviedo.com/big-data-analytics/events/datathon/queries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/events/datathon/queries/</guid><description>&lt;h2 id="schema">Schema&lt;/h2>
+&lt;/ul></description></item><item><title>Profiling Queries (phase 1)</title><link>https://espinosa-oviedo.com/big-data-analytics/events/datathon/queries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/big-data-analytics/events/datathon/queries/</guid><description>&lt;h2 id="schema">Schema&lt;/h2>
 &lt;p>To answer the profiling queries, you need to extend the dataframe returned by the AUT &lt;a href="https://aut.docs.archivesunleashed.org/docs/0.91.0/dataframe-schemas#web-pages" target="_blank" rel="noopener">.webpages()&lt;/a> method as shown in the &lt;strong>extended schema&lt;/strong> below.&lt;/p>
 &lt;p>Note that:&lt;/p>
 &lt;ul>
