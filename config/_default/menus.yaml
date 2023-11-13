@@ -36,6 +36,10 @@ main:
     weight: 42
     identifier: datathon
 
+  - name: Demofest
+    url: '/demofest'
+    weight: 43
+
   - name: Resources
     url: '/resources'
     weight: 50

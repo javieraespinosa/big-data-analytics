@@ -4,7 +4,7 @@ headless: true
 weight: 9
 draft: true
 
-title: '**Datathon**: </br>Analisis of Web Archives from the Digital Humanities' 
+title: '`Demostration Festival` </br> **Web Archives Analytics**' 
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: 'internet_archive.jpg'
@@ -15,7 +15,7 @@ cta_note:
   label: ""
 
 cta:
-  url: 'datathon2/#dates'
+  url: 'demofest/#dates'
   label: "Save the dates!"
   icon_pack: fas
   icon: calendar-days
@@ -37,3 +37,4 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["80px", "0", "80px", "0"]
 ---
+: </br>

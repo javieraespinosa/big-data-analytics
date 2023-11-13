@@ -45,6 +45,8 @@ Each category name corresponds to the methodology used in the [LINFRANUM](https:
 
 * [Datathon WebArchives Quickstart](https://colab.research.google.com/drive/1aL5O2gQBvseLvp61ll_iU48n_HyHkY91?usp=sharing) notebook
 
+* [Datathon WebArchives & Graph Analytics](https://github.com/javieraespinosa/big-data-analytics-datathon/blob/main/notebooks/03-WebArchives%20Graph%20Analytics.ipynb)
+
 * [Collecting Data from Blogger via the API](https://colab.research.google.com/drive/1Ss260r20PwfQunYWvuLjZ2Ljcnu9kSlZ?usp=sharing) notebook
 
 * [AUT text analysis](https://github.com/archivesunleashed/notebooks/blob/main/datathon-nyc/parquet_text_analyis_popline.ipynb) notebook

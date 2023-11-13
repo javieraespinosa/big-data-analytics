@@ -1,6 +1,6 @@
 ---
-title: "Phase 1: Profiling Queries"
-linktitle: Queries
+title: "Profiling Queries (phase 1)"
+linktitle: ⭐ Queries TODO
 type: book
 weight: 50
 ---
