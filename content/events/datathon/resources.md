@@ -75,4 +75,6 @@ Each category name corresponds to the methodology used in the [LINFRANUM](https:
     * [Spark Dataframe API](https://spark.apache.org/docs/3.0.0/api/python/pyspark.sql.html#pyspark.sql.DataFrame)
 
 
+### Posters
 
+* [Posters 2022](https://drive.google.com/drive/folders/11PvmV_nnVIX1aoCPT09o9FFQLW4Auln7?usp=share_link)
