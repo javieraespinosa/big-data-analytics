@@ -77,4 +77,4 @@ Each category name corresponds to the methodology used in the [LINFRANUM](https:
 
 ### Posters
 
-* [Posters 2022](https://drive.google.com/drive/folders/11PvmV_nnVIX1aoCPT09o9FFQLW4Auln7?usp=share_link)
+* [Posters ETI et IRC Datathon 2022](https://drive.google.com/drive/folders/11PvmV_nnVIX1aoCPT09o9FFQLW4Auln7?usp=share_link)
