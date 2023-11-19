@@ -3,8 +3,8 @@ widget: blank
 headless: true
 weight: 50
 
-title: Open Invitation
-# subtitle: Venez nombreux !
+title: Invitation
+subtitle: Dates & Place
 ---
 
 In the context of the **Big Data Analytics** course, CPE Lyon organizes a `demonstration festival` around the "**Analysis of Web Archives from the Digital Humanities**" (see [description datathon 2023](big-data-analytics/events/datathon/description/)).
